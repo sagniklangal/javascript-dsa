@@ -1,0 +1,1 @@
+The expression `arr.join(' ')` in JavaScript is used to create a string by concatenating all the elements of the array `arr`, with a space (`' '`) between each element.
